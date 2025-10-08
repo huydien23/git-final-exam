@@ -40,3 +40,7 @@
 - Mỗi buổi học kéo dài khoảng 2-3 tiếng.
 - Cần đảm bảo môi trường yên tĩnh để tập trung.
 - Ghi chép lại các lệnh và khái niệm quan trọng.
+
+### Tài liệu tham khảo:
+- Pro Git book
+- GitHub Docs
