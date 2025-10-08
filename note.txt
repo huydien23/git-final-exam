@@ -1,3 +1,5 @@
 - Git giúp quản lý phiên bản mã nguồn một cách hiệu quả.
 - Việc sử dụng các nhánh (branch) giúp phát triển các tính năng mới mà không ảnh hưởng đến mã nguồn chính.
 - Git là một công cụ mạnh mẽ nhưng cần thời gian để làm quen và sử dụng thành thạo.
+- Rebase là một kỹ thuật hữu ích để giữ lịch sử commit sạch sẽ.
+- GitHub là một nền tảng tuyệt vời để lưu trữ và chia sẻ mã nguồn.
