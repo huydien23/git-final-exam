@@ -1,4 +1,4 @@
-Xin chào, tôi tên là Nguyễn Huy Điền . Tôi là sinh viên ngành Công nghệ Thông tin tại trường đại học Nam Cần Thơ 
+Hello, this is Nguyễn Huy Điền . Tôi là sinh viên ngành Công nghệ Thông tin tại trường đại học Nam Cần Thơ 
 Tôi nhiệt tình, ham học hỏi và luôn cố gắng cải thiện kỹ năng lập trình của mình.
 Trong học tập và làm việc nhóm, tôi chú trọng vào giao tiếp rõ ràng và hoàn thành nhiệm vụ đúng hạn.
 Tôi mong muốn phát triển sự nghiệp trong lĩnh vực phát triển phần mềm và học thêm về trí tuệ nhân tạo.
