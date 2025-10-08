@@ -1,0 +1,7 @@
+Tên tính năng: Tích hợp thanh toán trực tuyến
+Mô tả: Cho phép người dùng thực hiện thanh toán cho các đơn hàng trực tiếp trên ứng dụng bằng nhiều phương thức khác nhau.
+Các chức năng chính:
+- Liên kết với các cổng thanh toán phổ biến như MoMo, ZaloPay, VNPay.
+- Hỗ trợ thanh toán qua thẻ tín dụng/ghi nợ quốc tế (Visa, Mastercard).
+- Lưu trữ lịch sử giao dịch an toàn và bảo mật.
+- Gửi hóa đơn điện tử cho khách hàng sau khi thanh toán thành công.
