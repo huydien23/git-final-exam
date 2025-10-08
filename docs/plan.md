@@ -35,3 +35,8 @@
 
 8.  **Thứ Tư (15/10):**
     *   Hoàn thành bài kiểm tra và push kết quả lên repository.
+
+### Ghi chú bổ sung:
+- Mỗi buổi học kéo dài khoảng 2-3 tiếng.
+- Cần đảm bảo môi trường yên tĩnh để tập trung.
+- Ghi chép lại các lệnh và khái niệm quan trọng.
